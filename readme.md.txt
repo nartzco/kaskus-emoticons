@@ -1,0 +1,2 @@
+=== Kaskus Emoticons ===
+Kaskus Emoticons is an emoticon set inspired by Kaskus, the Largest Indonesian Community - consisting of over a million active members from all over the world. The images which are used in this plugin are copyright of Kaskus
